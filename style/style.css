@@ -238,7 +238,7 @@ header{
     object-fit: cover;
     animation: loading-bg 5s ease;
     z-index: -10;
-    filter: brightness(0.5);
+    filter: brightness(0.8);
 }
 #tom-svg{
     width: 70vw;
@@ -566,6 +566,7 @@ main{
     left: 50%;
     transform: translateX(-50%);
     transition: 0.2s ease;
+    overflow: scroll;
 }
 
 .comp-items p strong{
