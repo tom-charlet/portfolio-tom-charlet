@@ -927,6 +927,29 @@ footer div a:hover{
         text-align: center;
         grid-column: -1 / 1;
     }
+    .pop-full{
+        width: 90vw;
+        height: auto;
+        max-height: 800px;
+    }
+    .pop-view{
+        width: 100%;
+        padding: 70px 20px 20px 20px;
+    }
+    .pop-title{
+        top: 25px;
+        left: 20px;
+        font-size: 0.8em;
+    }
+    .pop-icon{
+        top: 20px;
+        right: 20px;
+        width: 70px;
+        height: 30px;
+    }
+    .pop-view-bg img{
+        width: 100%;
+    }
     .comp-sec{
         grid-column: 2 / 14;
     }
