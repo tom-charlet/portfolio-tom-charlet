@@ -290,6 +290,8 @@ header{
 .loading #arrow-down{
     position: absolute;
     bottom: 10vh;
+    left: 50%;
+    transform: translateX(-50%);
     fill: gainsboro;
     width: 50px;
     display: none;
