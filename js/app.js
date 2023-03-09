@@ -18,7 +18,7 @@ window.addEventListener("load", function () {
 
     // START ANIMATION
 
-    const pageLoad = true;
+    const pageLoad = false;
 
     if (pageLoad) {
         setTimeout(function () {
